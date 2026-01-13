@@ -1,3 +1,10 @@
+
+**File Description**
+• **PlotData0624yuanshi.m:**
+MATLAB script for data loading and visualization, including built-in filtering routines.
+• **AUV_Right20250605_185317.mat:**
+Raw experiment dataset collected during AUV test.
+
 The acquired dataset consists of raw measurements stored in MATLAB format and requires subsequent filtering and preprocessing.
 • PWM_True_Store: Recorded PWM input signals applied to the thrusters
 • direct_pos_store: Measured AUV position data
